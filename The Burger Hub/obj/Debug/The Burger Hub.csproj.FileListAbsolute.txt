@@ -1,0 +1,72 @@
+E:\RDBMS\Project\The Burger Hub\The Burger Hub\bin\Debug\The Burger Hub.exe.config
+E:\RDBMS\Project\The Burger Hub\The Burger Hub\bin\Debug\The Burger Hub.exe
+E:\RDBMS\Project\The Burger Hub\The Burger Hub\bin\Debug\The Burger Hub.pdb
+E:\RDBMS\Project\The Burger Hub\The Burger Hub\obj\Debug\The Burger Hub.csprojResolveAssemblyReference.cache
+E:\RDBMS\Project\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form1.resources
+E:\RDBMS\Project\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form2.resources
+E:\RDBMS\Project\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form3.resources
+E:\RDBMS\Project\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Properties.Resources.resources
+E:\RDBMS\Project\The Burger Hub\The Burger Hub\obj\Debug\The Burger Hub.csproj.GenerateResource.Cache
+E:\RDBMS\Project\The Burger Hub\The Burger Hub\obj\Debug\The Burger Hub.exe
+E:\RDBMS\Project\The Burger Hub\The Burger Hub\obj\Debug\The Burger Hub.pdb
+H:\Projects Visual Studios ( Sem-3)\3rd sem project\The Burger Hub\The Burger Hub\bin\Debug\The Burger Hub.exe.config
+H:\Projects Visual Studios ( Sem-3)\3rd sem project\The Burger Hub\The Burger Hub\obj\Debug\The Burger Hub.exe
+H:\Projects Visual Studios ( Sem-3)\3rd sem project\The Burger Hub\The Burger Hub\obj\Debug\The Burger Hub.pdb
+H:\Projects Visual Studios ( Sem-3)\3rd sem project\The Burger Hub\The Burger Hub\bin\Debug\The Burger Hub.exe
+H:\Projects Visual Studios ( Sem-3)\3rd sem project\The Burger Hub\The Burger Hub\bin\Debug\The Burger Hub.pdb
+H:\Projects Visual Studios ( Sem-3)\3rd sem project\The Burger Hub\The Burger Hub\obj\Debug\The Burger Hub.csprojResolveAssemblyReference.cache
+H:\Projects Visual Studios ( Sem-3)\3rd sem project\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form1.resources
+H:\Projects Visual Studios ( Sem-3)\3rd sem project\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form2.resources
+H:\Projects Visual Studios ( Sem-3)\3rd sem project\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form3.resources
+H:\Projects Visual Studios ( Sem-3)\3rd sem project\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Properties.Resources.resources
+H:\Projects Visual Studios ( Sem-3)\3rd sem project\The Burger Hub\The Burger Hub\obj\Debug\The Burger Hub.csproj.GenerateResource.Cache
+H:\3rd Semester\Projects Visual Studios ( Sem-3)\3rd sem project\The Burger Hub\The Burger Hub\bin\Debug\The Burger Hub.exe.config
+H:\3rd Semester\Projects Visual Studios ( Sem-3)\3rd sem project\The Burger Hub\The Burger Hub\obj\Debug\The Burger Hub.exe
+H:\3rd Semester\Projects Visual Studios ( Sem-3)\3rd sem project\The Burger Hub\The Burger Hub\obj\Debug\The Burger Hub.pdb
+H:\3rd Semester\Projects Visual Studios ( Sem-3)\3rd sem project\The Burger Hub\The Burger Hub\bin\Debug\The Burger Hub.exe
+H:\3rd Semester\Projects Visual Studios ( Sem-3)\3rd sem project\The Burger Hub\The Burger Hub\bin\Debug\The Burger Hub.pdb
+H:\3rd Semester\Projects Visual Studios ( Sem-3)\3rd sem project\The Burger Hub\The Burger Hub\obj\Debug\The Burger Hub.csprojResolveAssemblyReference.cache
+H:\3rd Semester\Projects Visual Studios ( Sem-3)\3rd sem project\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form1.resources
+H:\3rd Semester\Projects Visual Studios ( Sem-3)\3rd sem project\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form3.resources
+H:\3rd Semester\Projects Visual Studios ( Sem-3)\3rd sem project\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Properties.Resources.resources
+H:\3rd Semester\Projects Visual Studios ( Sem-3)\3rd sem project\The Burger Hub\The Burger Hub\obj\Debug\The Burger Hub.csproj.GenerateResource.Cache
+H:\3rd Semester\Projects Visual Studios ( Sem-3)\3rd sem project\The Burger Hub\The Burger Hub\bin\Debug\Oracle.ManagedDataAccess.dll
+H:\3rd Semester\Projects Visual Studios ( Sem-3)\3rd sem project\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form6.resources
+H:\3rd Semester\Projects Visual Studios ( Sem-3)\3rd sem project\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form7.resources
+H:\3rd Semester\Projects Visual Studios ( Sem-3)\3rd sem project\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form8.resources
+H:\3rd Semester\Projects Visual Studios ( Sem-3)\3rd sem project\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form9.resources
+H:\3rd Semester\Projects Visual Studios ( Sem-3)\3rd sem project\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form10.resources
+H:\3rd Semester\Projects Visual Studios ( Sem-3)\3rd sem project\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form11.resources
+H:\3rd Semester\Projects Visual Studios ( Sem-3)\3rd sem project\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form12.resources
+H:\3rd Semester\Projects Visual Studios ( Sem-3)\3rd sem project\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form13.resources
+E:\RDBMS\Project\3rd sem project updated\The Burger Hub\The Burger Hub\bin\Debug\The Burger Hub.exe.config
+E:\RDBMS\Project\3rd sem project updated\The Burger Hub\The Burger Hub\obj\Debug\The Burger Hub.exe
+E:\RDBMS\Project\3rd sem project updated\The Burger Hub\The Burger Hub\obj\Debug\The Burger Hub.pdb
+E:\RDBMS\Project\3rd sem project updated\The Burger Hub\The Burger Hub\bin\Debug\The Burger Hub.exe
+E:\RDBMS\Project\3rd sem project updated\The Burger Hub\The Burger Hub\bin\Debug\The Burger Hub.pdb
+E:\RDBMS\Project\3rd sem project updated\The Burger Hub\The Burger Hub\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\RDBMS\Project\3rd sem project updated\The Burger Hub\The Burger Hub\obj\Debug\The Burger Hub.csprojResolveAssemblyReference.cache
+E:\RDBMS\Project\3rd sem project updated\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form1.resources
+E:\RDBMS\Project\3rd sem project updated\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form10.resources
+E:\RDBMS\Project\3rd sem project updated\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form11.resources
+E:\RDBMS\Project\3rd sem project updated\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form12.resources
+E:\RDBMS\Project\3rd sem project updated\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form13.resources
+E:\RDBMS\Project\3rd sem project updated\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form3.resources
+E:\RDBMS\Project\3rd sem project updated\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form6.resources
+E:\RDBMS\Project\3rd sem project updated\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form7.resources
+E:\RDBMS\Project\3rd sem project updated\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form8.resources
+E:\RDBMS\Project\3rd sem project updated\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form9.resources
+E:\RDBMS\Project\3rd sem project updated\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Properties.Resources.resources
+E:\RDBMS\Project\3rd sem project updated\The Burger Hub\The Burger Hub\obj\Debug\The Burger Hub.csproj.GenerateResource.Cache
+E:\RDBMS\Project\3rd sem project updated\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form2.resources
+E:\RDBMS\Project\3rd sem project updated\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form14.resources
+E:\RDBMS\Project\3rd sem project updated\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form4.resources
+E:\RDBMS\Project\3rd sem project updated\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form5.resources
+E:\RDBMS\Project\3rd sem project updated\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form15.resources
+E:\RDBMS\Project\3rd sem project updated\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form16.resources
+E:\RDBMS\Project\3rd sem project updated\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form17.resources
+E:\RDBMS\Project\3rd sem project updated\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form18.resources
+E:\RDBMS\Project\3rd sem project updated\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form19.resources
+E:\RDBMS\Project\3rd sem project updated\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form20.resources
+E:\RDBMS\Project\3rd sem project updated\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form21.resources
+E:\RDBMS\Project\3rd sem project updated\The Burger Hub\The Burger Hub\obj\Debug\The_Burger_Hub.Form22.resources
